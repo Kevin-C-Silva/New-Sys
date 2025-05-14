@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\New-Sys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "New-Sys\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "New-Sys\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:08:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "New-Sys\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "New-Sys\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:06:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "New-Sys\\Models\\Produto.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "New-Sys\\Models\\Usuario.cs",
@@ -51,31 +85,30 @@
               "RelativeToolTip": "New-Sys\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:28:46.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T18:28:46.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "New-Sys\\Repositorio\\ProdutoRepositorio.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeToolTip": "New-Sys\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T18:21:43.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Repositorio\\LoginRepositorio.cs",
               "RelativeDocumentMoniker": "New-Sys\\Repositorio\\LoginRepositorio.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Repositorio\\LoginRepositorio.cs",
               "RelativeToolTip": "New-Sys\\Repositorio\\LoginRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T18:21:08.337Z",
               "EditorCaption": ""
