@@ -5,5 +5,6 @@ namespace New_Sys.Repositorio
 {
     public class LoginRepositorio
     {
+
     }
 }
