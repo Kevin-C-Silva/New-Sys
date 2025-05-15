@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\New-Sys\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\appsettings.json",
+              "RelativeDocumentMoniker": "New-Sys\\appsettings.json",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\appsettings.json",
+              "RelativeToolTip": "New-Sys\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T19:31:19.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Program.cs",
               "RelativeDocumentMoniker": "New-Sys\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Excluir.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Produto\\Excluir.cshtml",
               "RelativeDocumentMoniker": "New-Sys\\Views\\Produto\\Excluir.cshtml",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "New-Sys\\Views\\Produto\\Excluir.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T19:24:03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T19:24:03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "New-Sys\\Controllers\\ProdutoController.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "New-Sys\\Controllers\\ProdutoController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAmwEMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:23:27.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T19:23:27.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "New-Sys\\wwwroot\\css\\site.css",
@@ -93,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "homePage.css",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\homePage.css",
               "RelativeDocumentMoniker": "New-Sys\\wwwroot\\css\\homePage.css",
@@ -105,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "New-Sys\\Views\\Shared\\_Layout.cshtml",
@@ -117,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "New-Sys\\Views\\Home\\Index.cshtml",
