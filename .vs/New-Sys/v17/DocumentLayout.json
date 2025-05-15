@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\New-Sys\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\wwwroot\\css\\cadprod.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\wwwroot\\css\\cadprod.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\wwwroot\\css\\indprod.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\wwwroot\\css\\indprod.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,24 +55,8 @@
       "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\produto\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\wwwroot\\css\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|c:\\users\\2mod\\desktop\\new-sys\\new-sys\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AEFA27E5-5D3A-4EE2-8977-1E3061127A02}|New-Sys\\New-Sys.csproj|solutionrelative:new-sys\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,32 +71,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Produto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "New-Sys\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Produto\\Editar.cshtml",
+              "RelativeToolTip": "New-Sys\\Views\\Produto\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T20:36:51.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "New-Sys\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "New-Sys\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T19:49:25.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cadProd.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\cadProd.css",
+              "RelativeDocumentMoniker": "New-Sys\\wwwroot\\css\\cadProd.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\cadProd.css",
+              "RelativeToolTip": "New-Sys\\wwwroot\\css\\cadProd.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T19:46:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "New-Sys\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "New-Sys\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T18:12:21.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "New-Sys\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "New-Sys\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T18:12:53.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "New-Sys\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Models\\Produto.cs",
+              "RelativeToolTip": "New-Sys\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:23:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "New-Sys\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "New-Sys\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T19:49:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "New-Sys\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "New-Sys\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:23:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "indProd.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
+              "RelativeDocumentMoniker": "New-Sys\\wwwroot\\css\\indProd.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
+              "RelativeToolTip": "New-Sys\\wwwroot\\css\\indProd.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T19:45:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\appsettings.json",
               "RelativeDocumentMoniker": "New-Sys\\appsettings.json",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\appsettings.json",
               "RelativeToolTip": "New-Sys\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-15T19:31:19.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Program.cs",
               "RelativeDocumentMoniker": "New-Sys\\Program.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Program.cs",
               "RelativeToolTip": "New-Sys\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T19:27:14.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Excluir.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Produto\\Excluir.cshtml",
               "RelativeDocumentMoniker": "New-Sys\\Views\\Produto\\Excluir.cshtml",
@@ -84,31 +225,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "New-Sys\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "New-Sys\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwEMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T19:23:27.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "New-Sys\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\site.css",
               "RelativeToolTip": "New-Sys\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-15T18:21:35.499Z"
+              "WhenOpened": "2025-05-15T18:21:35.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "homePage.css",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\homePage.css",
               "RelativeDocumentMoniker": "New-Sys\\wwwroot\\css\\homePage.css",
@@ -117,30 +247,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-15T18:15:42.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "New-Sys\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "New-Sys\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T18:12:53.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "New-Sys\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "New-Sys\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T18:12:21.17Z"
             }
           ]
         }

@@ -8,5 +8,6 @@
         public decimal Preco { get; set; }
         public int Quantidade { get; set; }
 
+        public List<Produto>? ListaProdutos { get; set; }
     }
 }
