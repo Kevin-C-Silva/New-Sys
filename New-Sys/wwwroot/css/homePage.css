@@ -1,0 +1,21 @@
+﻿html {
+    overflow-y: hidden;
+}
+
+.video-fundo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 750px; 
+    object-fit: cover;
+    z-index: -1;
+}
+
+#titulo {
+    background: rgba(14, 57, 98, 0.9);
+    width: fit-content;
+    padding: 10px 25px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
