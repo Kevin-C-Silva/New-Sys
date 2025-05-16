@@ -6,7 +6,7 @@ namespace New_Sys.Repositorio
 {
     public class ProdutoRepositorio(IConfiguration configuration)
     {
-        private readonly string _conexaoMySQL = configuration.GetConnectionString("ConexaoMySQL");
+        private readonly string _conexaoMySQL = configuration.GetConnectionString("MySQLConnection");
 
         public void Cadastrar(Produto produto)
         {
@@ -90,7 +90,7 @@ namespace New_Sys.Repositorio
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("Select * from Produtos where Id=@Id ");
+                MySqlCommand cmd = new MySqlCommand("Select * from Produtos where Id=@Id", conexao);
                 cmd.Parameters.AddWithValue("@Íd", id);
                 MySqlDataAdapter da = new MySqlDataAdapter(cmd);
                 MySqlDataReader dr;

@@ -18,3 +18,11 @@ Descricao varchar(200) not null,
 Preco decimal(10,2) not null,
 Quantidade int not null
 );
+
+insert into Usuario(Nome, Email, Senha) values ('Kevin', 'Kevin07@gmail.com', '123123');
+
+describe Usuario;
+describe Produto;
+
+select * from Usuario;
+select * from Produto;

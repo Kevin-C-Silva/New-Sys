@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ALUA8V1WtZOgcsJnFUDkONQvbdL3YKH1J/X0qit+T+8=",
+  "Hash": "2yFXzzrAkEuwP5PyKMumfZrSoxuBxuT0E2C1ad2KuXk=",
   "Source": "New-Sys",
   "BasePath": "_content/New-Sys",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\New-Sys.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\cadProd.css",
+      "SourceId": "New-Sys",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\",
+      "BasePath": "_content/New-Sys",
+      "RelativePath": "css/cadProd#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilpcijarfr",
+      "Integrity": "luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cadProd.css"
+    },
+    {
       "Identity": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\homePage.css",
       "SourceId": "New-Sys",
       "SourceType": "Discovered",
@@ -78,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\homePage.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
+      "SourceId": "New-Sys",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\",
+      "BasePath": "_content/New-Sys",
+      "RelativePath": "css/indProd#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilpcijarfr",
+      "Integrity": "luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\indProd.css"
     },
     {
       "Identity": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\site.css",
@@ -1340,12 +1382,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\midia\\video1.mp4",
+      "Identity": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\video\\video1.mp4",
       "SourceId": "New-Sys",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\",
       "BasePath": "_content/New-Sys",
-      "RelativePath": "midia/video1#[.{fingerprint}]?.mp4",
+      "RelativePath": "video/video1#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1358,10 +1400,92 @@
       "Integrity": "cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\midia\\video1.mp4"
+      "OriginalItemSpec": "wwwroot\\video\\video1.mp4"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/cadProd.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\cadProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadProd.ilpcijarfr.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\cadProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilpcijarfr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadProd.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        }
+      ]
+    },
     {
       "Route": "css/homePage.css",
       "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\homePage.css",
@@ -1441,6 +1565,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ti3XnA1NZTUDh/NtpxK5mxgz7K39uGggXwRkgMn/Jds="
+        }
+      ]
+    },
+    {
+      "Route": "css/indProd.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        }
+      ]
+    },
+    {
+      "Route": "css/indProd.ilpcijarfr.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilpcijarfr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/indProd.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
         }
       ]
     },
@@ -6365,88 +6571,6 @@
       ]
     },
     {
-      "Route": "midia/video1.0kkmx7mqfx.mp4",
-      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\midia\\video1.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "55141379"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:25:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0kkmx7mqfx"
-        },
-        {
-          "Name": "label",
-          "Value": "midia/video1.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s="
-        }
-      ]
-    },
-    {
-      "Route": "midia/video1.mp4",
-      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\midia\\video1.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "55141379"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 19:25:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s="
-        }
-      ]
-    },
-    {
       "Route": "New-Sys.2qvp4jclff.bundle.scp.css",
       "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\New-Sys.bundle.scp.css",
       "Selectors": [],
@@ -6607,6 +6731,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-JuNx4t6OONXQtXTdBjdUEvhALrtpZj0LWdBhHtck7e0="
+        }
+      ]
+    },
+    {
+      "Route": "video/video1.0kkmx7mqfx.mp4",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\video\\video1.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55141379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kkmx7mqfx"
+        },
+        {
+          "Name": "label",
+          "Value": "video/video1.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s="
+        }
+      ]
+    },
+    {
+      "Route": "video/video1.mp4",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\video\\video1.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55141379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 19:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNE2Hu78VwauBkkiV3zk8JTLjzc9C4L9DsXkxOaR70s="
         }
       ]
     }

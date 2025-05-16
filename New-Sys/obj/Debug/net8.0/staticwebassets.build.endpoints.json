@@ -85,6 +85,88 @@
       ]
     },
     {
+      "Route": "css/cadProd.css",
+      "AssetFile": "css/cadProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadProd.ilpcijarfr.css",
+      "AssetFile": "css/cadProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilpcijarfr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadProd.css"
+        }
+      ]
+    },
+    {
       "Route": "css/homePage.css",
       "AssetFile": "css/homePage.css",
       "Selectors": [],
@@ -163,6 +245,88 @@
         {
           "Name": "label",
           "Value": "css/homePage.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/indProd.css",
+      "AssetFile": "css/indProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        }
+      ]
+    },
+    {
+      "Route": "css/indProd.ilpcijarfr.css",
+      "AssetFile": "css/indProd.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 20:42:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilpcijarfr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-luriORqU3dFMyrUk28K0snhXeEFDw2Luq1wdQEFXLZA="
+        },
+        {
+          "Name": "label",
+          "Value": "css/indProd.css"
         }
       ]
     },
@@ -5087,8 +5251,8 @@
       ]
     },
     {
-      "Route": "midia/video1.0kkmx7mqfx.mp4",
-      "AssetFile": "midia/video1.mp4",
+      "Route": "video/video1.0kkmx7mqfx.mp4",
+      "AssetFile": "video/video1.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5127,13 +5291,13 @@
         },
         {
           "Name": "label",
-          "Value": "midia/video1.mp4"
+          "Value": "video/video1.mp4"
         }
       ]
     },
     {
-      "Route": "midia/video1.mp4",
-      "AssetFile": "midia/video1.mp4",
+      "Route": "video/video1.mp4",
+      "AssetFile": "video/video1.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {

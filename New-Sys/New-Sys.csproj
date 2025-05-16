@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\midia\video1.mp4" />
+    <None Include="wwwroot\video\video1.mp4" />
   </ItemGroup>
 
   <ItemGroup>

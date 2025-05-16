@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\New-Sys.2qvp4jclff.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\cadProd.css",
+      "PackagePath": "staticwebassets\\css\\cadProd.css"
+    },
+    {
       "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\homePage.css",
       "PackagePath": "staticwebassets\\css\\homePage.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
+      "PackagePath": "staticwebassets\\css\\indProd.css"
     },
     {
       "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\site.css",
@@ -249,8 +257,8 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\midia\\video1.mp4",
-      "PackagePath": "staticwebassets\\midia\\video1.mp4"
+      "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\video\\video1.mp4",
+      "PackagePath": "staticwebassets\\video\\video1.mp4"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.New-Sys.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

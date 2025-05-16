@@ -13,15 +13,25 @@ namespace New_Sys.Controllers
         {
             _loginRepositorio = loginRepositorio;
         }
-
-        public IActionResult ChecarUsuario(string email)
+        public IActionResult Checar()
+        {
+            return View();
+        }
+        
+        [HttpPost]
+        public IActionResult Checar(string email, string senha)
         {
             var usuario = _loginRepositorio.ObterUsuario(email);
             if (usuario == null)
             {
                 return NotFound();
             }
-            return View(usuario);
+            if(usuario != null && usuario.Senha == senha)
+            {
+                return RedirectToAction("Index", "Produto");
+            }
+            ModelState.AddModelError("", "Erro, informações incorretas.");
+            return View();
         }
     }
 }

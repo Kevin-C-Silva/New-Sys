@@ -18,19 +18,19 @@ namespace New_Sys.Controllers
             return View(_produtoRepositorio.TodosProdutos);
         }
 
-        public IActionResult CadastrarProduto()
+        public IActionResult Cadastro()
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult CadastrarProduto(Produto produto)
+        public IActionResult Cadastro(Produto produto)
         {
             _produtoRepositorio.Cadastrar(produto);
             return RedirectToAction(nameof(Index));
         }
 
-        public IActionResult EditarProduto(int id)
+        public IActionResult Editar(int id)
         {
             var produto = _produtoRepositorio.ObterProduto(id);
             if (produto == null)
@@ -41,7 +41,7 @@ namespace New_Sys.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult EditarProduto(int id, [Bind("Id, Nome, Descricao, Qauntidade")] Produto produto)
+        public IActionResult Editar(int id, [Bind("Id, Nome, Descricao, Qauntidade")] Produto produto)
         {
             if (id != produto.Id)
             {
@@ -65,7 +65,7 @@ namespace New_Sys.Controllers
             return View(produto);
         }
 
-        public IActionResult ExcluirProduto(int id)
+        public IActionResult Excluir(int id)
         {
             _produtoRepositorio.Excluir(id);
             return RedirectToAction(nameof(Index));

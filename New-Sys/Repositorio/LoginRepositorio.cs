@@ -7,7 +7,7 @@ namespace New_Sys.Repositorio
     public class LoginRepositorio(IConfiguration configuration)
     {
         //Cria o construtor que irá ler os campos inseridos no MySQL.
-        private readonly string _conexaoMySQL = configuration.GetConnectionString("ConexaoMySQL");
+        private readonly string _conexaoMySQL = configuration.GetConnectionString("MySQLConnection");
 
         public Usuario ObterUsuario(string email)
         {

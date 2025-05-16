@@ -1,4 +1,6 @@
+wwwroot\css\cadProd.css
 wwwroot\css\homePage.css
+wwwroot\css\indProd.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -59,4 +61,4 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-wwwroot\midia\video1.mp4
+wwwroot\video\video1.mp4
