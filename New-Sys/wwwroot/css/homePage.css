@@ -19,3 +19,13 @@
     border-radius: 30px;
     margin: 0 auto;
 }
+
+.sec {
+    width: 35%;
+    background-color: steelblue;
+    border: 2px black;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}

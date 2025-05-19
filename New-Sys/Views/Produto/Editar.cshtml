@@ -1,13 +1,13 @@
 ﻿@model New_Sys.Models.Produto;
 
 
-<link href="~/css/editarcli.css" rel="stylesheet" />
+<link href="~/css/ediProd.css" rel="stylesheet" />
 
 <h1 class="titulo-cli">Editar Produto</h1>
 
 
 <hr />
-<div class="row">
+<div class="row secD">
     <div class="col-md-4">
         <form asp-action="Editar" method="post">
             @*Esse token desempenha um papel crucial na prevenção de ataques de Cross-Site Request Forgery (CSRF).
@@ -49,9 +49,6 @@
             <div class="btn">
                 <div class="form-group">
                     <input type="submit" value="Alterar" class="btn btn-primary" />
-                </div>
-
-                <div class="form-group">
                     <a asp-action="Index" class="btn btn-secondary">Voltar</a>
                 </div>
             </div>

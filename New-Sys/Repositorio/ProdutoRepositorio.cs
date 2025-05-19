@@ -24,7 +24,6 @@ namespace New_Sys.Repositorio
                 conexao.Close();
             }
         }
-
         public bool Atualizar(Produto produto)
         {
             try
@@ -32,25 +31,26 @@ namespace New_Sys.Repositorio
                 using (var conexao = new MySqlConnection(_conexaoMySQL))
                 {
                     conexao.Open();
+                    MySqlCommand cmd = new MySqlCommand("Update Produto set Nome=@nome,Descricao=@descricao,Preco=@preco,Quantidade=@quantidade" + " where Id=@id", conexao);
 
-                    MySqlCommand cmd = new MySqlCommand("Update Produto set Nome=@Nomes, Descricao=@Descricao, Preco=@Preco, Quantidade=@Quantidade" + "where Id= @Id", conexao);
-                    cmd.Parameters.Add("@Id", MySqlDbType.Int32).Value = produto.Id;
-                    cmd.Parameters.Add("@Nome", MySqlDbType.VarChar).Value = produto.Nome;
-                    cmd.Parameters.Add("@Descricao", MySqlDbType.VarChar).Value = produto.Descricao;
-                    cmd.Parameters.Add("@Preco", MySqlDbType.Decimal).Value = produto.Preco;
-                    cmd.Parameters.Add("@Quantidade", MySqlDbType.Int32).Value = produto.Quantidade;
+                    cmd.Parameters.Add("@id", MySqlDbType.Int32).Value = produto.Id;
+                    cmd.Parameters.Add("@nome", MySqlDbType.VarChar).Value = produto.Nome;
+                    cmd.Parameters.Add("@descricao", MySqlDbType.VarChar).Value = produto.Descricao;                    
+                    cmd.Parameters.Add("@preco", MySqlDbType.Decimal).Value = produto.Preco;
+                    cmd.Parameters.Add("@quantidade", MySqlDbType.Int32).Value = produto.Quantidade;
+
                     int linhasAfetadas = cmd.ExecuteNonQuery();
-
                     return linhasAfetadas > 0;
+
                 }
             }
-
             catch (MySqlException ex)
             {
-                Console.WriteLine($"Erro ao atualizar cliente: {ex.Message}");
+                Console.WriteLine($"Erro ao atualizar produto: {ex.Message}");
                 return false;
             }
         }
+
 
         public IEnumerable<Produto> TodosProdutos()
         {
@@ -82,16 +82,16 @@ namespace New_Sys.Repositorio
                 return ListaProdutos;
             }
         }
-
         public Produto ObterProduto(int id)
         {
-
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("Select * from Produtos where Id=@Id", conexao);
-                cmd.Parameters.AddWithValue("@Íd", id);
+                MySqlCommand cmd = new MySqlCommand("SELECT * from Produto where Id=@Id", conexao);
+
+                cmd.Parameters.AddWithValue("@Id", id);
+
                 MySqlDataAdapter da = new MySqlDataAdapter(cmd);
                 MySqlDataReader dr;
                 Produto produto = new Produto();
@@ -101,15 +101,15 @@ namespace New_Sys.Repositorio
                 while (dr.Read())
                 {
                     produto.Id = Convert.ToInt32(dr["Id"]);
-                    produto.Nome = ((string)dr["Nome"]);
-                    produto.Descricao = ((string)dr["Descricao"]);
-                    produto.Preco = Convert.ToDecimal(dr["Preco"]);
+                    produto.Nome = (string)(dr["Nome"]);
+                    produto.Descricao = (string)(dr["Descricao"]);
+                    produto.Preco = (decimal)(dr["Preco"]);
                     produto.Quantidade = Convert.ToInt32(dr["Quantidade"]);
+
                 }
                 return produto;
             }
         }
-
         public void Excluir(int id)
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
@@ -123,5 +123,6 @@ namespace New_Sys.Repositorio
                 conexao.Close();
             }
         }
+
     }
 }

@@ -1,6 +1,8 @@
 wwwroot\css\cadProd.css
+wwwroot\css\ediProd.css
 wwwroot\css\homePage.css
 wwwroot\css\indProd.css
+wwwroot\css\login.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

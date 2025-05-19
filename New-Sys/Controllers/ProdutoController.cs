@@ -15,7 +15,7 @@ namespace New_Sys.Controllers
 
         public IActionResult Index()
         {
-            return View(_produtoRepositorio.TodosProdutos);
+            return View(_produtoRepositorio.TodosProdutos());
         }
 
         public IActionResult Cadastro()
@@ -41,7 +41,7 @@ namespace New_Sys.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Editar(int id, [Bind("Id, Nome, Descricao, Qauntidade")] Produto produto)
+        public IActionResult Editar(int id, [Bind("Id, Nome, Descricao, Quantidade, Preco")] Produto produto)
         {
             if (id != produto.Id)
             {

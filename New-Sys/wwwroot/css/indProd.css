@@ -1,8 +1,11 @@
-﻿body {
+﻿.tbP{
+    border-radius: 10px;
+    background-color: lightgray;
+    text-align: center
 }
 
 .border-top {
-    margin-top: 500px;
+    margin-top: 420px;
     width: 100%;
     height: 100px;
     background: navy;

@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\css\\cadProd.css"
     },
     {
+      "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\ediProd.css",
+      "PackagePath": "staticwebassets\\css\\ediProd.css"
+    },
+    {
       "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\homePage.css",
       "PackagePath": "staticwebassets\\css\\homePage.css"
     },
     {
       "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\indProd.css",
       "PackagePath": "staticwebassets\\css\\indProd.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
       "Id": "C:\\Users\\2mod\\Desktop\\New-Sys\\New-Sys\\wwwroot\\css\\site.css",
